@@ -18,3 +18,5 @@ except Exception as e:
 
 #except ZeroDivisionError:
     #print("can't divide by zero")
+    
+    # we added it here just for fun
